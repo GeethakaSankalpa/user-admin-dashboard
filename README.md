@@ -24,13 +24,13 @@ This project is a modern web dashboard that allows administrators to manage user
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-!login
+![login](public/images/login.png)
 
 ### 👨‍💼 Admin Dashboard
-!admin-dashboard
+![admin-dashboard](public/images/admin-dashbaord.png)
 
 ### 👥 User Page
-!user-page
+![user-page](public/images/user-page.png)
 
 ---
 
